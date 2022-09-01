@@ -1,2 +1,3 @@
-# Weintek-Telegram-Bot
-Telegram Bot API Library for Weintek EasyBuilder Pro
+# Telegram Bot API Library for Weintek EasyBuilder Pro
+
+[Bots](https://core.telegram.org/bots) are special Telegram users controlled with an HTTP API. Library aims to expose the minimum capabilities of this API, so you can create Telegram bots for HMI Weintek easily.
