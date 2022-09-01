@@ -1,5 +1,5 @@
 const telegramBot = await import('/weintek_telebot.js');
-var bot = new telegramBot.TelegramBot('5574052484:AAGQtD9YhYdFsOWTItxk4Op3ghk4ZlcucZw')
+var bot = new telegramBot.TelegramBot('TOKEN')
 var chats = {}
 var mouseArea = new MouseArea();
 this.widget.add(mouseArea);
